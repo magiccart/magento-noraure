@@ -1,0 +1,9 @@
+Update: 01/04/2016
+File changed: 
+app\code\local\Magiccart\Magicshop\controllers\AjaxController.php
+app\design\frontend\alonoraure\default\template\magiccart\magicslider\magicslider.phtml
+js\magiccart\quickview.js
+app\design\frontend\alonoraure\default\layout\customer.xml
+
+02/06/2017: supee-8788
+update patch here: http://alothemes.com//themeforest/security/supee-8788/app.zip

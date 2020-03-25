@@ -1,0 +1,334 @@
+<?xml version="1.0"?>
+<root>
+  <blocks>
+    <cms_block>
+      <title><![CDATA[Footer Links]]></title>
+      <identifier><![CDATA[footer_links]]></identifier>
+      <content><![CDATA[
+<ul>
+    <li><a href="{{store direct_url="about-magento-demo-store"}}">About Us</a></li>
+    <li><a href="{{store direct_url="customer-service"}}">Customer Service</a></li>
+<li class="last privacy"><a href="{{store direct_url="privacy-policy-cookie-restriction-mode"}}">Privacy Policy</a></li>
+</ul>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </cms_block>
+    <cms_block>
+      <title><![CDATA[Footer Links Company]]></title>
+      <identifier><![CDATA[footer_links_company]]></identifier>
+      <content><![CDATA[<div class="footer-menu-box">
+<div class="col-sm-12">
+<ul class="footer-menu-list">
+<li><a href="#">Company Info - Partnerships</a></li>
+</ul>
+</div>
+<div class="col-sm-12">
+<ul class="footer-menu-list">
+<li><a href="#">Online Shopping</a></li>
+<li><a href="#">Promotions</a></li>
+<li><a href="#">My Orders</a></li>
+<li><a href="#">Help</a></li>
+<li><a href="#">Site Map</a></li>
+<li><a href="#">Customer Service</a></li>
+<li><a href="#">Support</a></li>
+</ul>
+</div>
+<div class="col-sm-12">
+<ul class="footer-menu-list">
+<li><a href="#">Most Populars</a></li>
+<li><a href="#">Best Sellers</a></li>
+<li><a href="#">New Arrivals</a></li>
+<li><a href="#">Special Products</a></li>
+<li><a href="#">Manufacturers</a></li>
+<li><a href="#">Our Stores</a></li>
+<li><a href="#">Shipping</a></li>
+<li><a href="#">Payments</a></li>
+<li><a href="#">Warantee</a></li>
+<li><a href="#">Refunds</a></li>
+<li><a href="#">Checkout</a></li>
+<li><a href="#">Discount</a></li>
+</ul>
+</div>
+<div class="col-sm-12">
+<ul class="footer-menu-list">
+<li><a href="#">Terms &amp; Conditions</a></li>
+<li><a href="#">Policy</a></li>
+<li><a href="#">Shipping</a></li>
+<li><a href="#">Payments</a></li>
+<li><a href="#">Returns</a></li>
+<li><a href="#">Refunds</a></li>
+<li><a href="#">Warrantee</a></li>
+<li><a href="#">FAQ</a></li>
+<li><a href="#">Contact</a></li>
+</ul>
+</div>
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </cms_block>
+    <cms_block>
+      <title><![CDATA[block_footer_top]]></title>
+      <identifier><![CDATA[block_footer_top]]></identifier>
+      <content><![CDATA[<div class="row">
+<div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+		<div class="collapsible mobile-collapsible">
+			<h3 class="block-title">Contact us</h3>
+                        <span class="toggle-tab mobile" style="display: none;"><span class="hidden">hidden</span></span>
+			<div class="block1 block-content-statick toggle-content">
+				<ul>
+					<li class="feature-icon first"><span class="icon-pointer icons"><span class="hidden">hidden</span></span>
+						<p class="no-margin">NORAURE London Oxford Street 012 United Kingdom.</p>
+					</li>
+					<li class="feature-icon"><span class="icon-envelope-open icons"><span class="hidden">hidden</span></span>
+						<p><span>emailgreatstore@gmail.com</span>
+							<span>emailsupport@gmail.com</span></p>
+					</li>
+					<li class="feature-icon"><span class="icon-call-end icons"><span class="hidden">hidden</span></span>
+						<p><span>(+92) 3456 7890</span>
+							<span>(+92) 1234 5678</span></p>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+
+<div class="col-lg-6  col-md-6  col-sm-6  col-xs-12">
+	<div class="row">
+		<div class="col-lg-4  col-md-4  col-sm-6  col-xs-12">
+			<div class="collapsible mobile-collapsible">
+				<h3 class="block-title">information</h3>
+							<span class="toggle-tab mobile" style="display: none;"><span class="hidden">hidden</span></span>
+				<div class="block-content block-content-statick toggle-content">
+					<ul class="bullet">
+						<li><a href="#">My account</a></li>
+						<li><a href="#">Order history</a></li>
+						<li><a href="#">Wish list</a></li>
+						<li><a href="#">Returns</a></li>
+						<li><a href="#">Privacy Policy</a></li>
+						<li><a href="#">Site map</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<div class="col-lg-4  col-md-4  col-sm-6  col-xs-12">
+			<div class="collapsible mobile-collapsible">
+				<h3 class="block-title ">our offers</h3>
+							<span class="toggle-tab mobile" style="display: none;"><span class="hidden">hidden</span></span>
+				<div class="block-content block-content-statick toggle-content">
+					<ul class="bullet">
+						<li><a href="#">New collection</a></li>
+						<li><a href="#">Best sellers</a></li>
+						<li><a href="#">Manufacturers</a></li>
+						<li><a href="#">New products</a></li>
+						<li><a href="#">Suppliers</a></li>
+						<li><a href="#">Delivery & returns</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<div class="col-lg-4 col-md-4 col-sm-12  col-xs-12">
+			<div class="collapsible mobile-collapsible">
+				<h3 class="block-title">Our Policy</h3>
+						   <span class="toggle-tab mobile" style="display: none;"><span class="hidden">hidden</span></span>
+				<div class="block-content block-content-statick toggle-content">
+					<ul class="bullet">
+						<li><a href="#">Help & Contact</a></li>
+						<li><a href="#">Shipping & taxes</a></li>
+						<li><a href="#">Return policy</a></li>
+						<li><a href="#">Careers</a></li>
+						<li><a href="#">Affiliates</a></li>
+						<li><a href="#">Legal Notice</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="col-lg-3  col-md-3  col-sm-3  col-xs-12">
+	<div class="collapsible mobile-collapsible">
+		<h3 class="block-title">get newsletters</h3>
+		<span class="toggle-tab mobile" style="display: none;"><span class="hidden">hidden</span></span>
+		<div class="block-content block-content-statick toggle-content">
+			<div class="block-newletter">{{block type="newsletter/subscribe" template="newsletter/subscribe.phtml"}}</div>
+			<h3 class="block-title">Connect Us</h3>
+			<ul class="list-inline">
+				<li><a class="social-link" href="#"><i class="fa fa-facebook"><span class="hidden">facebook</span></i></a></li>
+				<li><a class="social-link" href="#"><i class="fa fa-twitter"><span class="hidden">twitter</span></i></a></li>
+				<li><a class="social-link" href="#"><i class="fa fa-youtube"><span class="hidden">youtube</span></i></a></li>
+				<li><a class="social-link" href="#"><i class="fa fa-tumblr"><span class="hidden">tumblr</span></i></a></li>
+				<li><a class="social-link" href="#"><i class="fa fa-pinterest"><span class="hidden">pinterest</span></i></a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </cms_block>
+    <cms_block>
+      <title><![CDATA[block_map_contacts]]></title>
+      <identifier><![CDATA[block_map_contacts]]></identifier>
+      <content><![CDATA[<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2482.8277911385558!2d-0.13108129999999998!3d51.51637529999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761b2d183f5ea3%3A0x8e1c5b00f1b16579!2zMTIgT3hmb3JkIFN0LCBTb2hvLCBMb25kb24gVzFELCBWxrDGoW5nIFF14buRYyBBbmg!5e0!3m2!1svi!2s!4v1434261501432" width="600" height="350" frameborder="0" style="border:0"></iframe>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </cms_block>
+    <cms_block>
+      <title><![CDATA[Block Footer Paypal]]></title>
+      <identifier><![CDATA[block_footer_paypal]]></identifier>
+      <content><![CDATA[<ul class="list-paypal">
+	<li><a href="#" class="paypal-link"><img src="{{media url="wysiwyg/alothemes/static/paypal.png"}}" alt="" /></a></li>
+	<li><a href="#" class="paypal-link"><img src="{{media url="wysiwyg/alothemes/static/discover.png"}}" alt="" /></a></li>
+	<li><a href="#" class="paypal-link"><img src="{{media url="wysiwyg/alothemes/static/curus.png"}}" alt="" /></a></li>
+	<li><a href="#" class="paypal-link"><img src="{{media url="wysiwyg/alothemes/static/visa.png"}}" alt="" /></a></li>
+</ul>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </cms_block>
+    <cms_block>
+      <title><![CDATA[Slide Home]]></title>
+      <identifier><![CDATA[slide]]></identifier>
+      <content><![CDATA[<div>{{widget type="magicslider/widget_slide" identifier="slide_home1" template="magiccart/magicslider/magicslider.phtml"}}</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </cms_block>
+    <cms_block>
+      <title><![CDATA[Block Shipping]]></title>
+      <identifier><![CDATA[block_shipping_home]]></identifier>
+      <content><![CDATA[<div class="shipping-content">
+	<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4 fadeInUp alo-animate" data-wow-duration="1s" data-wow-delay="0.4s">
+		<div class="shipping-left">
+			<a href="#"><i class="fa fa-truck">&nbsp;</i></a>
+		</div>
+		<div class="shipping-right">
+			<h3>Free Shipping</h3>
+			<p>
+				Lorem ipsum dolor sit amet, consectetur adipisicing elit, news do eiusmod tempor incididunt ut labore et dolore.
+			</p>
+		</div>
+	</div>
+	<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4 fadeInUp alo-animate" data-wow-duration="1.2s" data-wow-delay="0.6s">
+		<div class="shipping-left">
+			<a href="#"><i class="fa fa-mail-forward">&nbsp;</i></a>
+		</div>
+		<div class="shipping-right">
+			<h3>100% Money Back</h3>
+			<p>
+				Lorem ipsum dolor sit amet, consectetur adipisicing elit, news do eiusmod tempor incididunt ut labore et dolore.
+			</p>
+		</div>
+	</div>
+	<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4 fadeInUp alo-animate" data-wow-duration="1.4s" data-wow-delay="0.8s">
+		<div class="shipping-left">
+			<a href="#"><i class="fa fa-comments">&nbsp;</i></a>
+		</div>
+		<div class="shipping-right">
+			<h3>Online Support 24/7</h3>
+			<p>
+				Lorem ipsum dolor sit amet, consectetur adipisicing elit, news do eiusmod tempor incididunt ut labore et dolore.
+			</p>
+		</div>
+	</div>
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </cms_block>
+    <cms_block>
+      <title><![CDATA[Blog]]></title>
+      <identifier><![CDATA[blog]]></identifier>
+      <content><![CDATA[<div>{{widget type="blog/slide" title="Latest Posts Blog" categories="1" blocks_count="5" slide="1" controls="1" auto="1" speed="800" pause="1" row="1" portrait="1" landscape="2" tablet="2" desktop="3" visibleItems="3" marginColumn="30"  widthImages="370" heightImages="205"}}</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </cms_block>
+    <cms_block>
+      <title><![CDATA[Block Product Home]]></title>
+      <identifier><![CDATA[block_product_home]]></identifier>
+      <content><![CDATA[<div>{{widget type="magicproduct/widget_magicproduct" identifier="main_products_01" template="magiccart/magicproduct/magicproduct.phtml"}}</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </cms_block>
+    <cms_block>
+      <title><![CDATA[Block Menu Bottom]]></title>
+      <identifier><![CDATA[block_menu_bottom]]></identifier>
+      <content><![CDATA[<div class="col-xs-12 col-sm-6 col-md-6 menu-bottom-left">
+<img class="img-responsive" src="{{media url="wysiwyg/alothemes/static/menu-bottom-left.jpg"}}" alt="" />
+</div>
+<div class="col-xs-12 col-sm-6 col-md-6 menu-bottom-right">
+<img class="img-responsive" src="{{media url="wysiwyg/alothemes/static/menu-bottom-right.jpg"}}" alt="" />
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </cms_block>
+    <cms_block>
+      <title><![CDATA[Block Menu Right]]></title>
+      <identifier><![CDATA[block_menu_right]]></identifier>
+      <content><![CDATA[<div class="menu-images-right">
+<img class="img-responsive" src="{{media url="wysiwyg/alothemes/static/menu-block-right.jpg"}}" alt="" />
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </cms_block>
+    <cms_block>
+      <title><![CDATA[Block static image left]]></title>
+      <identifier><![CDATA[static_image_left]]></identifier>
+      <content><![CDATA[<div class="banner-sibar">
+	<div class="banner-top banner1">
+		<div class="banner-inner">
+			<div class="banner-inner-content">
+				<a class="overlay" href="#">&nbsp;</a>
+				<img src="{{media url="wysiwyg/alothemes/static/banner-sibar.jpg"}}" alt="" class="img-responsive" />
+				<div class="text-banner text-banner-1 banner-position banner-home-text">
+					<div class="banner-texthome">
+						<h2>Women’s fashion </h2>
+						<h3>mid season sale</h3>
+						<h4><a href="#" class="btn-button">Shop now</a></h4>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </cms_block>
+    <cms_block>
+      <title><![CDATA[Left Best Seller]]></title>
+      <identifier><![CDATA[left-best-seller]]></identifier>
+      <content><![CDATA[<div class="sibar-product block">
+	<div class="block-title">
+        <strong><span>best seller</span></strong>
+    </div>
+	{{widget type="magicproduct/widget_magicproduct" identifier="best-seller" template="magiccart/magicproduct/magicproduct_custom.phtml"}}
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </cms_block>
+    <cms_block>
+      <title><![CDATA[Testimonials]]></title>
+      <identifier><![CDATA[testimonials]]></identifier>
+      <content><![CDATA[<div>{{widget type="testimonial/widget_slide" template="magiccart/testimonial/slide.phtml"}}</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </cms_block>
+    <cms_block>
+      <title><![CDATA[Brands]]></title>
+      <identifier><![CDATA[brands]]></identifier>
+      <content><![CDATA[<div>{{widget type="shopbrand/widget_shopbrand" template="magiccart/shopbrand/brand.phtml"}}</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </cms_block>
+    <cms_block>
+      <title><![CDATA[Block Featured Menu]]></title>
+      <identifier><![CDATA[featured]]></identifier>
+      <content><![CDATA[<div class="content-mega">
+	<div class="content-mega-custom content-mega-horizontal">
+	    <div class="container-full">
+			<ul class="mage-column cat-mega">
+				<li class="children level1">
+				   <a href="#"><span>Products</span></a>
+				   <ul class="level1">
+                                               <li class="level2"><a href="simple-product.html"><span>Simple Product</span></a></li>
+						<li class="level2"><a href="grouped-product.html"><span>Grouped Product</span></a></li>
+						<li class="level2"><a href="configurable-product.html"><span>Configurable Product</span></a></li>
+					</ul>
+				</li>
+			</ul>
+		</div>
+	</div>
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </cms_block>
+    <cms_block>
+      <title><![CDATA[block_product_after_content]]></title>
+      <identifier><![CDATA[block_product_after_content]]></identifier>
+      <content><![CDATA[<div class="home-featured ">
+{{widget type="magicproduct/widget_magicproduct" identifier="featured_products" template="magiccart/magicproduct/magicproduct.phtml"}}
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </cms_block>
+  </blocks>
+</root>

@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<root>
+  <magicslider>
+    <slide>
+      <title><![CDATA[Slide Home 1]]></title>
+      <identifier><![CDATA[slide_home1]]></identifier>
+      <content><![CDATA[[{"url":"http:\/\/127.0.0.1\/alo_noraure\/media\/magiccart\/magicslider\/\/s\/l\/slide2.jpg","file":"\/s\/l\/slide2.jpg","label":"","position":"2","disabled":0,"removed":0,"html":"<div class=\"container\">\n\t<div class=\"text-slide text-slide3\">\n\t\t<h3 class=\"caption1\">new collection<\/h3>\n\t\t<h3 class=\"caption2\">women\u2019s fashion<\/h3>\n\t\t<h2 class=\"caption3\">save up to 40% off<\/h2>\n\t\t<a href=\"#\" class=\"btn-shop\">Shop Now<\/a>\n\t<\/div>\n<\/div>","link":""},{"url":"http:\/\/127.0.0.1\/alo_noraure\/media\/magiccart\/magicslider\/\/s\/l\/slide1_2.jpg","file":"\/s\/l\/slide1_2.jpg","label":"","position":"1","disabled":0,"removed":0,"html":"<div class=\"container\">\n\t<div class=\"text-slide text-slide1\">\n\t\t<h3 class=\"caption1\">new collection<\/h3>\n\t\t<h3 class=\"caption2\">men\u2019s fashion<\/h3>\n\t\t<h2 class=\"caption3\">save up to 40% off<\/h2>\n\t\t<a href=\"#\" class=\"btn-shop\">Shop Now<\/a>\n\t<\/div>\n<\/div>","link":""},{"url":"http:\/\/127.0.0.1\/alo_noraure\/media\/magiccart\/magicslider\/\/s\/l\/slide3.jpg","file":"\/s\/l\/slide3.jpg","label":"","position":"3","disabled":0,"removed":0,"html":"<div class=\"container\">\n\t<div class=\"text-slide text-slide2 \">\n\t\t<h3 class=\"caption1\">summer fashion for season<\/h3>\n\t\t<h3 class=\"caption2\">women collection<\/h3>\n\t\t<h2 class=\"caption3\">save up to 40% off<\/h2>\n\t\t<a href=\"#\" class=\"btn-shop\">Shop Now<\/a>\n\t<\/div>\n<\/div>","link":""}]]]></content>
+      <status><![CDATA[1]]></status>
+      <config><![CDATA[a:6:{s:5:"width";s:4:"1920";s:6:"height";s:4:"1040";s:8:"controls";s:1:"1";s:5:"pager";s:1:"1";s:5:"pause";s:4:"6000";s:5:"speed";s:3:"800";}]]></config>
+    </slide>
+    <slide>
+      <title><![CDATA[Slide Home 2]]></title>
+      <identifier><![CDATA[slide_home2]]></identifier>
+      <content><![CDATA[[{"url":"http:\/\/127.0.0.1\/alo_noraure\/media\/magiccart\/magicslider\/h\/o\/home2-slide1.jpg","file":"\/h\/o\/home2-slide1.jpg","label":"","position":"1","disabled":0,"removed":0,"html":"<div class=\"container\">\n\t<div class=\"text-slide text-slide3\">\n\t\t<h3 class=\"caption1\">new collection<\/h3>\n\t\t<h3 class=\"caption2\">women\u2019s fashion<\/h3>\n\t\t<h2 class=\"caption3\">save up to 40% off<\/h2>\n\t\t<a href=\"#\" class=\"btn-shop\">Shop Now<\/a>\n\t<\/div>\n<\/div>","link":""},{"url":"http:\/\/127.0.0.1\/alo_noraure\/media\/magiccart\/magicslider\/h\/o\/home2-slide2.jpg","file":"\/h\/o\/home2-slide2.jpg","label":"","position":"2","disabled":0,"removed":0,"html":"<div class=\"container\">\n\t<div class=\"text-slide text-slide1\">\n\t\t<h3 class=\"caption1\">new collection<\/h3>\n\t\t<h3 class=\"caption2\">men\u2019s fashion<\/h3>\n\t\t<h2 class=\"caption3\">save up to 40% off<\/h2>\n\t\t<a href=\"#\" class=\"btn-shop\">Shop Now<\/a>\n\t<\/div>\n<\/div>","link":""}]]]></content>
+      <status><![CDATA[1]]></status>
+      <config><![CDATA[a:6:{s:5:"width";s:4:"1920";s:6:"height";s:4:"1080";s:8:"controls";s:1:"1";s:5:"pager";s:1:"1";s:5:"pause";s:4:"6000";s:5:"speed";s:3:"800";}]]></config>
+    </slide>
+    <slide>
+      <title><![CDATA[Slide Home 3]]></title>
+      <identifier><![CDATA[slide_home3]]></identifier>
+      <content><![CDATA[[{"url":"http:\/\/web.com\/alo_noraure_new\/media\/magiccart\/magicslider\/\/h\/o\/home3-slide1.jpg","file":"\/h\/o\/home3-slide1.jpg","label":"","position":"1","disabled":0,"removed":0,"html":"<div class=\"container\">\n\t<div class=\"text-slide text-slide3\">\n\t\t<h3 class=\"caption1\">new collection<\/h3>\n\t\t<h3 class=\"caption2\">women\u2019s fashion<\/h3>\n\t\t<h2 class=\"caption3\">save up to 40% off<\/h2>\n\t\t<a href=\"#\" class=\"btn-shop\">Shop Now<\/a>\n\t<\/div>\n<\/div>","link":""},{"url":"http:\/\/web.com\/alo_noraure_new\/media\/magiccart\/magicslider\/\/h\/o\/home3-slide2.jpg","file":"\/h\/o\/home3-slide2.jpg","label":"","position":"2","disabled":0,"removed":0,"html":"<div class=\"container\">\n\t<div class=\"text-slide text-slide2 \">\n\t\t<h3 class=\"caption1\">new collection<\/h3>\n\t\t<h3 class=\"caption2\">men\u2019s fashion<\/h3>\n\t\t<h2 class=\"caption3\">save up to 40% off<\/h2>\n\t\t<a href=\"#\" class=\"btn-shop\">Shop Now<\/a>\n\t<\/div>\n<\/div>","link":""}]]]></content>
+      <status><![CDATA[1]]></status>
+      <config><![CDATA[a:6:{s:5:"width";s:4:"1920";s:6:"height";s:3:"600";s:8:"controls";s:1:"1";s:5:"pager";s:1:"1";s:5:"pause";s:4:"6000";s:5:"speed";s:3:"800";}]]></config>
+    </slide>
+  </magicslider>
+</root>

@@ -1,0 +1,176 @@
+<?xml version="1.0"?>
+<root>
+  <pages>
+    <cms_block>
+      <title><![CDATA[Customer Service]]></title>
+      <root_template><![CDATA[three_columns]]></root_template>
+      <identifier><![CDATA[customer-service]]></identifier>
+      <content_heading><![CDATA[]]></content_heading>
+      <content><![CDATA[<div class="page-title">
+<h1>Customer Service</h1>
+</div>
+<ul class="disc">
+<li><a href="#answer1">Shipping &amp; Delivery</a></li>
+<li><a href="#answer2">Privacy &amp; Security</a></li>
+<li><a href="#answer3">Returns &amp; Replacements</a></li>
+<li><a href="#answer4">Ordering</a></li>
+<li><a href="#answer5">Payment, Pricing &amp; Promotions</a></li>
+<li><a href="#answer6">Viewing Orders</a></li>
+<li><a href="#answer7">Updating Account Information</a></li>
+</ul>
+<dl>
+<dt id="answer1">Shipping &amp; Delivery</dt>
+<dd>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi luctus. Duis lobortis. Nulla nec velit.
+Mauris pulvinar erat non massa. Suspendisse tortor turpis, porta nec, tempus vitae, iaculis semper, pede.
+Cras vel libero id lectus rhoncus porta. Suspendisse convallis felis ac enim. Vivamus tortor nisl, lobortis in,
+faucibus et, tempus at, dui. Nunc risus. Proin scelerisque augue. Nam ullamcorper. Phasellus id massa.
+Pellentesque nisl. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+Nunc augue. Aenean sed justo non leo vehicula laoreet. Praesent ipsum libero, auctor ac, tempus nec, tempor nec,
+justo.</dd>
+<dt id="answer2">Privacy &amp; Security</dt>
+<dd>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi luctus. Duis lobortis. Nulla nec velit.
+Mauris pulvinar erat non massa. Suspendisse tortor turpis, porta nec, tempus vitae, iaculis semper, pede.
+Cras vel libero id lectus rhoncus porta. Suspendisse convallis felis ac enim. Vivamus tortor nisl, lobortis in,
+faucibus et, tempus at, dui. Nunc risus. Proin scelerisque augue. Nam ullamcorper. Phasellus id massa.
+Pellentesque nisl. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+Nunc augue. Aenean sed justo non leo vehicula laoreet. Praesent ipsum libero, auctor ac, tempus nec, tempor nec,
+justo.</dd>
+<dt id="answer3">Returns &amp; Replacements</dt>
+<dd>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi luctus. Duis lobortis. Nulla nec velit.
+Mauris pulvinar erat non massa. Suspendisse tortor turpis, porta nec, tempus vitae, iaculis semper, pede.
+Cras vel libero id lectus rhoncus porta. Suspendisse convallis felis ac enim. Vivamus tortor nisl, lobortis in,
+faucibus et, tempus at, dui. Nunc risus. Proin scelerisque augue. Nam ullamcorper. Phasellus id massa.
+Pellentesque nisl. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+Nunc augue. Aenean sed justo non leo vehicula laoreet. Praesent ipsum libero, auctor ac, tempus nec, tempor nec,
+justo.</dd>
+<dt id="answer4">Ordering</dt>
+<dd>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi luctus. Duis lobortis. Nulla nec velit.
+Mauris pulvinar erat non massa. Suspendisse tortor turpis, porta nec, tempus vitae, iaculis semper, pede.
+Cras vel libero id lectus rhoncus porta. Suspendisse convallis felis ac enim. Vivamus tortor nisl, lobortis in,
+faucibus et, tempus at, dui. Nunc risus. Proin scelerisque augue. Nam ullamcorper. Phasellus id massa.
+Pellentesque nisl. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+Nunc augue. Aenean sed justo non leo vehicula laoreet. Praesent ipsum libero, auctor ac, tempus nec, tempor nec,
+justo.</dd>
+<dt id="answer5">Payment, Pricing &amp; Promotions</dt>
+<dd>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi luctus. Duis lobortis. Nulla nec velit.
+Mauris pulvinar erat non massa. Suspendisse tortor turpis, porta nec, tempus vitae, iaculis semper, pede.
+Cras vel libero id lectus rhoncus porta. Suspendisse convallis felis ac enim. Vivamus tortor nisl, lobortis in,
+faucibus et, tempus at, dui. Nunc risus. Proin scelerisque augue. Nam ullamcorper. Phasellus id massa.
+Pellentesque nisl. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+Nunc augue. Aenean sed justo non leo vehicula laoreet. Praesent ipsum libero, auctor ac, tempus nec, tempor nec,
+justo.</dd>
+<dt id="answer6">Viewing Orders</dt>
+<dd>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi luctus. Duis lobortis. Nulla nec velit.
+Mauris pulvinar erat non massa. Suspendisse tortor turpis, porta nec, tempus vitae, iaculis semper, pede.
+Cras vel libero id lectus rhoncus porta. Suspendisse convallis felis ac enim. Vivamus tortor nisl, lobortis in,
+faucibus et, tempus at, dui. Nunc risus. Proin scelerisque augue. Nam ullamcorper. Phasellus id massa.
+ Pellentesque nisl. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+ Nunc augue. Aenean sed justo non leo vehicula laoreet. Praesent ipsum libero, auctor ac, tempus nec, tempor nec,
+ justo.</dd>
+<dt id="answer7">Updating Account Information</dt>
+<dd>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi luctus. Duis lobortis. Nulla nec velit.
+ Mauris pulvinar erat non massa. Suspendisse tortor turpis, porta nec, tempus vitae, iaculis semper, pede.
+ Cras vel libero id lectus rhoncus porta. Suspendisse convallis felis ac enim. Vivamus tortor nisl, lobortis in,
+ faucibus et, tempus at, dui. Nunc risus. Proin scelerisque augue. Nam ullamcorper. Phasellus id massa.
+ Pellentesque nisl. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+ Nunc augue. Aenean sed justo non leo vehicula laoreet. Praesent ipsum libero, auctor ac, tempus nec, tempor nec,
+ justo.</dd>
+</dl>]]></content>
+      <layout_update_xml><![CDATA[]]></layout_update_xml>
+      <is_active><![CDATA[1]]></is_active>
+    </cms_block>
+    <cms_block>
+      <title><![CDATA[Noraure Home 6]]></title>
+      <root_template><![CDATA[one_column]]></root_template>
+      <identifier><![CDATA[home_6]]></identifier>
+      <content_heading><![CDATA[]]></content_heading>
+      <content><![CDATA[<div class="block block-banner-home">
+	<div class="container-content">
+		<div class="row">
+			<div class="col-xs-12 col-sm-4 col-md-4 no-left-gutter">
+				<div class="row">
+					<div class="col-xs-12 col-sm-12 col-md-12 banner-padding-bottom banner-arrow">
+						<div class="banner-top banner1 border-arrow-right">
+							<div class="banner-inner">
+								<div class="banner-inner-content">
+									<a href="#" class="overlay">&nbsp;</a>
+									<img class="img-responsive" src="{{media url="wysiwyg/alothemes/static/banner1.jpg"}}" alt="" />
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>	
+				<div class="row">	
+					<div class="col-xs-12 col-sm-12 col-md-12">
+						<div class="banner-top banner2">
+							<div class="banner-inner">
+								<div class="banner-inner-content banner-home-text">
+									<div class="text-banner text-banner-1">
+										<div class="banner-texthome">
+											<h2>the biggest</h2>
+											<h3>winter collection</h3>
+											<h4><a class="btn-button" href="#">go to shop</a></h4>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-xs-12 col-sm-4 col-md-4 no-center-gutter">
+				<div class="row">
+					<div class="col-xs-12 col-sm-12 col-md-12 banner-padding-bottom ">
+						<div class="banner-top banner3">
+							<div class="banner-inner">
+								<div class="banner-inner-content banner-home-text">
+									<div class="text-banner text-banner-1">
+										<div class="banner-texthome">
+											<h2>new design </h2>
+											<h3>send her your love</h3>
+											<h4><a class="btn-button" href="#">go to now</a></h4>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>	
+				<div class="row">	
+					<div class="col-xs-12 col-sm-12 col-md-12 banner-arrow ">
+						<div class="banner-top banner3 border-arrow-left">
+							<div class="banner-inner">
+								<div class="banner-inner-content">
+									<a href="#" class="overlay">&nbsp;</a>
+									<img class="img-responsive" src="{{media url="wysiwyg/alothemes/static/banner2.jpg"}}" alt="" />
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-xs-12 col-sm-4 col-md-4 no-right-gutter">
+				<div class="banner-top banner1">
+					<div class="banner-inner">
+						<div class="banner-inner-content">
+							<a href="#" class="overlay">&nbsp;</a>
+							<img class="img-responsive" src="{{media url="wysiwyg/alothemes/static/banner3.jpg"}}" alt="" />
+							<div class="text-banner text-banner-1 banner-position banner-home-text">
+								<div class="banner-texthome">
+									<h2>men’s fashion</h2>
+									<h3>mid season sale</h3>
+									<h4><a class="btn-button" href="#">view collection</a></h4>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>]]></content>
+      <layout_update_xml><![CDATA[]]></layout_update_xml>
+      <is_active><![CDATA[1]]></is_active>
+    </cms_block>
+  </pages>
+</root>

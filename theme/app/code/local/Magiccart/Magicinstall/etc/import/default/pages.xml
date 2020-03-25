@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+<root>
+  <pages>
+    <cms_block>
+      <title><![CDATA[Noraure Home 1]]></title>
+      <root_template><![CDATA[one_column]]></root_template>
+      <identifier><![CDATA[home]]></identifier>
+      <content_heading><![CDATA[]]></content_heading>
+      <content><![CDATA[<div class="block block-banner-home">
+	<div class="container-content">
+		<div class="row">
+			<div class="col-xs-12 col-sm-4 col-md-4 no-left-gutter">
+				<div class="row">
+					<div class="col-xs-12 col-sm-12 col-md-12 banner-padding-bottom banner-arrow">
+						<div class="banner-top banner1 border-arrow-right">
+							<div class="banner-inner">
+								<div class="banner-inner-content">
+									<a href="#" class="overlay">&nbsp;</a>
+									<img class="img-responsive" src="{{media url="wysiwyg/alothemes/static/banner1.jpg"}}" alt="" />
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>	
+				<div class="row">	
+					<div class="col-xs-12 col-sm-12 col-md-12">
+						<div class="banner-top banner2">
+							<div class="banner-inner">
+								<div class="banner-inner-content banner-home-text">
+									<div class="text-banner text-banner-1">
+										<div class="banner-texthome">
+											<h2>the biggest</h2>
+											<h3>winter collection</h3>
+											<h4><a class="btn-button" href="#">go to shop</a></h4>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-xs-12 col-sm-4 col-md-4 no-center-gutter ">
+				<div class="row">
+					<div class="col-xs-12 col-sm-12 col-md-12 banner-padding-bottom ">
+						<div class="banner-top banner3">
+							<div class="banner-inner">
+								<div class="banner-inner-content banner-home-text">
+									<div class="text-banner text-banner-1">
+										<div class="banner-texthome">
+											<h2>new design </h2>
+											<h3>send her your love</h3>
+											<h4><a class="btn-button" href="#">go to now</a></h4>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>	
+				<div class="row">	
+					<div class="col-xs-12 col-sm-12 col-md-12 banner-arrow ">
+						<div class="banner-top banner3 border-arrow-left">
+							<div class="banner-inner">
+								<div class="banner-inner-content">
+									<a href="#" class="overlay">&nbsp;</a>
+									<img class="img-responsive" src="{{media url="wysiwyg/alothemes/static/banner2.jpg"}}" alt="" />
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-xs-12 col-sm-4 col-md-4 no-right-gutter ">
+				<div class="banner-top banner1">
+					<div class="banner-inner">
+						<div class="banner-inner-content">
+							<a href="#" class="overlay">&nbsp;</a>
+							<img class="img-responsive" src="{{media url="wysiwyg/alothemes/static/banner3.jpg"}}" alt="" />
+							<div class="text-banner text-banner-1 banner-position banner-home-text">
+								<div class="banner-texthome">
+									<h2>men’s fashion</h2>
+									<h3>mid season sale</h3>
+									<h4><a class="btn-button" href="#">view collection</a></h4>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>]]></content>
+      <layout_update_xml><![CDATA[<!--<reference name="content">
+        <block type="catalog/product_new" name="home.catalog.product.new" alias="product_new" template="catalog/product/new.phtml" after="cms_page">
+            <action method="addPriceBlockType">
+                <type>bundle</type>
+                <block>bundle/catalog_product_price</block>
+                <template>bundle/catalog/product/price.phtml</template>
+            </action>
+        </block>
+        <block type="reports/product_viewed" name="home.reports.product.viewed" alias="product_viewed" template="reports/home_product_viewed.phtml" after="product_new">
+            <action method="addPriceBlockType">
+                <type>bundle</type>
+                <block>bundle/catalog_product_price</block>
+                <template>bundle/catalog/product/price.phtml</template>
+            </action>
+        </block>
+        <block type="reports/product_compared" name="home.reports.product.compared" template="reports/home_product_compared.phtml" after="product_viewed">
+            <action method="addPriceBlockType">
+                <type>bundle</type>
+                <block>bundle/catalog_product_price</block>
+                <template>bundle/catalog/product/price.phtml</template>
+            </action>
+        </block>
+    </reference>
+    <reference name="right">
+        <action method="unsetChild"><alias>right.reports.product.viewed</alias></action>
+        <action method="unsetChild"><alias>right.reports.product.compared</alias></action>
+    </reference>-->]]></layout_update_xml>
+      <is_active><![CDATA[1]]></is_active>
+    </cms_block>
+  </pages>
+</root>
